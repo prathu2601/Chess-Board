@@ -1,0 +1,25 @@
+.dark {
+    display: flex;
+    background-color: green;
+    font-size: 3.8vmin;
+    font-weight: 450;
+    place-items: center;
+    place-content: center;
+}
+
+.light {
+    display: flex;
+    background-color: yellow;
+    font-size: 3.8vmin;
+    font-weight: 450;
+    place-items: center;
+    place-content: center;
+}
+
+.temp {
+    display: flex;
+    font-size: 3.8vmin;
+    font-weight: 450;
+    place-items: center;
+    place-content: center;
+}
